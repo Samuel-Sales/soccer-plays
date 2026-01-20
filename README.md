@@ -12,3 +12,13 @@ cd soccer-plays
 
 #### Acesse no navegador
 ```http://localhost:3000```
+
+# Project rules
+### Routing: Pages Router (`pages/`)
+### Structure: no `src/`
+### Naming: camelCase (functions/variables), PascalCase (React components)
+### Reusable UI: folder `components/`
+### Data/API: `services/api/`
+### Tests: `tests/` organized by type
+### Infra: `infra/`
+### Utils: `utils/`
