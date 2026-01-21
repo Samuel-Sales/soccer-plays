@@ -1,7 +1,8 @@
 export default function Home() {
-    return (
-        <h1>
-            Im alive?
-        </h1>
-    )
+  return (
+    <div>
+      <h1>Im live?</h1>
+      <h2>Yes I think</h2>
+    </div>
+  );
 }
