@@ -22,3 +22,11 @@ cd soccer-plays
 ### Tests: `tests/` organized by type
 ### Infra: `infra/`
 ### Utils: `utils/`
+
+# How can I run the prettier
+
+### Rodar a checagem
+```npm run lint:check```
+
+### Realizar fix
+```npm run lint:fix```
